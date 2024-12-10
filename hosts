@@ -2,7 +2,9 @@
 #
 # This hosts file is a collection of hosts from my personal experiences online
 #
-# Date: 09 December 2024 14:32:23 (UTC)
+# The contents of this file contains a listing of additional domains in 'hosts' file format
+#
+# Date: 09 December 2024 06:20:00 (UTC)
 # Number of unique domains: 12
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/jcokell/Hosts/refs/heads/main/hosts
@@ -28,8 +30,7 @@
 
 # blacklist
 #
-# The contents of this file (containing a listing of additional domains in
-# 'hosts' file format) are appended to the unified hosts file during the
+) are appended to the unified hosts file during the
 # update process. For example, uncomment the following line to block
 # 'example.com':
 
