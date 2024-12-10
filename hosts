@@ -13,6 +13,7 @@
 #
 # ===============================================================
 
+# blacklist
 0.0.0.0 bmedia-gcore.justservingfiles.net
 0.0.0.0 m.m.oronova.com
 0.0.0.0 www.w3.org
@@ -27,11 +28,3 @@
 0.0.0.0 ststic.trafficjunky.com
 0.0.0.0 media.trafficjunky.net
 0.0.0.0 pix-cdn77.trafficjunky.net
-
-# blacklist
-#
-) are appended to the unified hosts file during the
-# update process. For example, uncomment the following line to block
-# 'example.com':
-
-# 0.0.0.0 example.com
