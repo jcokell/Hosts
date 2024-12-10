@@ -1,0 +1,36 @@
+# Title: jcokell/hosts
+#
+# This hosts file is a collection of hosts from my personal experiences online
+#
+# Date: 09 December 2024 14:32:23 (UTC)
+# Number of unique domains: 
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/jcokell/
+# Project home page: https://github.com/jcokell/hosts
+# Project releases: https://github.com/jcokell/hosts/releases
+#
+# ===============================================================
+
+0.0.0.0 bmedia-gcore.justservingfiles.net
+0.0.0.0 m.m.oronova.com
+0.0.0.0 www.w3.org
+0.0.0.0 thumb.live.mmcdn.com
+0.0.0.0 go.imkirh.com
+0.0.0.0 itogowf.shop
+0.0.0.0 everydayread.net
+0.0.0.0 a.magsrv.com
+0.0.0.0 leewibijoa.com
+  
+# trafficjunky
+0.0.0.0 ststic.trafficjunky.com
+0.0.0.0 media.trafficjunky.net
+0.0.0.0 pix-cdn77.trafficjunky.net
+
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+
+# 0.0.0.0 example.com
