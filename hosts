@@ -4,8 +4,8 @@
 #
 # The contents of this file contains a listing of additional domains in 'hosts' file format
 #
-# Date: 16 December 2024 14:05:00 (UTC)
-# Number of unique domains: 29
+# Date: 16 December 2024 18:12:00 (UTC)
+# Number of unique domains: 30
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/jcokell/Hosts/refs/heads/main/hosts
 # Project home page: https://github.com/jcokell/hosts
@@ -25,6 +25,7 @@
 0.0.0.0 leewibijoa.com
 0.0.0.0 trafficox.com
 0.0.0.0 xhamsterlive.com
+0.0.0.0 vip.stakeclick.com
   
 # trafficjunky
 0.0.0.0 ststic.trafficjunky.com
