@@ -30,3 +30,34 @@
 0.0.0.0 ststic.trafficjunky.com
 0.0.0.0 media.trafficjunky.net
 0.0.0.0 pix-cdn77.trafficjunky.net
+
+# Random porn sites
+0.0.0.0 hotmovs.com
+0.0.0.0 tube8.com
+0.0.0.0 donk69.com
+0.0.0.0 wankflix.com
+0.0.0.0 mofosex.com
+0.0.0.0 keezmovies.com
+0.0.0.0 extremetube.com
+0.0.0.0 spankwire.com
+0.0.0.0 pornxt.com
+0.0.0.0 crazyshit.com
+0.0.0.0 fantasti.cc
+0.0.0.0 gfjizz.com
+0.0.0.0 smutr.com
+0.0.0.0 yuvutu.com
+0.0.0.0 theyarehuge.com
+
+#YouTube embedded ads
+youtube.com##ytd-engagement-panel-section-list-renderer[target-id^="engagement-panel-ads"]
+youtube.com##div /#main-container.style-scope.ytd-promoted-video-renderer
+youtube.com##div /#root.style-scope.ytd-display-ad-renderer.yt-simple-endpoint
+youtube.com##div /#sparkles-container.style-scope.ytd-promoted-sparkles-web-renderer
+youtube.com##div /#player-ads.style-scope.ytd-watch-flexy
+youtube.com##.video-ads .ytp-ad-player-overlay, .video-ads .ytp-ad-player-overlay-layout
+m.youtube.com##.video-ads.ytp-ad-module
+! yt/tv
+www.youtube.com##ytlr-ad-skip-or-preview
+www.youtube.com##.ytlr-watch-default__ad-badge-for-tvae
+www.youtube.com##ytlr-banner-cta-renderer
+www.youtube.com,m.youtube.com,youtube-nocookie.com#$#skip-video 'video.html5-main-video' './/div[@id="ytlr-player__player-container"]//div[contains(@class,"ad-interrupting") or contains(@class,"ad-showing")]';
