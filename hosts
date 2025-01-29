@@ -4,8 +4,8 @@
 #
 # The contents of this file contains a listing of additional domains in 'hosts' file format
 #
-# Date: 01 January 2025 06:43:00 (UTC)
-# Number of unique domains: 38
+# Date: 29 January 2025 09:46:00 (UTC)
+# Number of unique domains: 40
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/jcokell/Hosts/refs/heads/main/hosts
 # Project home page: https://github.com/jcokell/hosts
@@ -30,6 +30,9 @@
 0.0.0.0 ads.mystat.pro
 0.0.0.0 bestgore.com
 0.0.0.0 go.dmsik.com
+0.0.0.0 bt.offertrk5000.com
+0.0.0.0 havenclick.com
+0.0.0.0 malegrowthbuzz.com
 
 # Random dating sites
 0.0.0.0 fun2-nights.com
