@@ -4,8 +4,8 @@
 #
 # The contents of this file contains a listing of additional domains in 'hosts' file format
 #
-# Date: 29 January 2025 09:46:00 (UTC)
-# Number of unique domains: 40
+# Date: 24 Febuary 2025 04:49:00 (UTC)
+# Number of unique domains: 43
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/jcokell/Hosts/refs/heads/main/hosts
 # Project home page: https://github.com/jcokell/hosts
@@ -34,16 +34,18 @@
 0.0.0.0 havenclick.com
 0.0.0.0 malegrowthbuzz.com
 
+
 # Random dating sites
 0.0.0.0 fun2-nights.com
 0.0.0.0 soamaibeshoap.com
-0.0.0.0 *.clicktodates.com
+0.0.0.0 clicktodates.com
 0.0.0.0 cfcgcci.clicktodates.com
 
 # trafficjunky
 0.0.0.0 ststic.trafficjunky.com
 0.0.0.0 media.trafficjunky.net
 0.0.0.0 pix-cdn77.trafficjunky.net
+0.0.0.0 trafficjunky.com
 
 # Random porn sites
 0.0.0.0 hotmovs.com
@@ -61,3 +63,4 @@
 0.0.0.0 smutr.com
 0.0.0.0 yuvutu.com
 0.0.0.0 theyarehuge.com
+0.0.0.0 pornhaven.ai
