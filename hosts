@@ -4,7 +4,7 @@
 #
 # The contents of this file contains a listing of additional domains in 'hosts' file format
 #
-# Date: 24 Febuary 2025 04:49:00 (UTC)
+# Date: 23 March 2025 011:39:50 (UTC)
 # Number of unique domains: 43
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/jcokell/Hosts/refs/heads/main/hosts
@@ -33,7 +33,6 @@
 0.0.0.0 bt.offertrk5000.com
 0.0.0.0 havenclick.com
 0.0.0.0 malegrowthbuzz.com
-
 
 # Random dating sites
 0.0.0.0 fun2-nights.com
@@ -64,3 +63,7 @@
 0.0.0.0 yuvutu.com
 0.0.0.0 theyarehuge.com
 0.0.0.0 pornhaven.ai
+0.0.0.0 golove.ai
+
+# AI chatbot
+0.0.0.0 https://accounts.curiosity.ai/openai
