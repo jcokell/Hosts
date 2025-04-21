@@ -4,8 +4,8 @@
 #
 # The contents of this file contains a listing of additional domains in 'hosts' file format
 #
-# Date: 23 March 2025 011:39:50 (UTC)
-# Number of unique domains: 43
+# Date: 21 April 2025 05:20:50 (UTC)
+# Number of unique domains: 47
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/jcokell/Hosts/refs/heads/main/hosts
 # Project home page: https://github.com/jcokell/hosts
@@ -32,6 +32,7 @@
 0.0.0.0 bt.offertrk5000.com
 0.0.0.0 havenclick.com
 0.0.0.0 malegrowthbuzz.com
+0.0.0.0 ad-arrow.com
 
 # Random dating sites
 0.0.0.0 fun2-nights.com
@@ -63,3 +64,11 @@
 0.0.0.0 theyarehuge.com
 0.0.0.0 pornhaven.ai
 0.0.0.0 golove.ai
+0.0.0.0 golove.ai/?ref=leakgallery  #main site is blocked but add was getting through on another site
+0.0.0.0 info.romerobill.com
+
+# Streaming services' ad servers
+0.0.0.0 us-east-1.ads.digital.disneyadvertising.com
+
+# Streaming devices' data scraping servers
+0.0.0.0 cooper.logs.roku.com
