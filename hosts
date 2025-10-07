@@ -4,8 +4,8 @@
 #
 # The contents of this file contains a listing of additional domains in 'hosts' file format
 #
-# Date: 16 June 2025 04:22:50 (UTC)
-# Number of unique domains: 50
+# Date: 07 October 2025 23:33:50 (UTC)
+# Number of unique domains: 60
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/jcokell/Hosts/refs/heads/main/hosts
 # Project home page: https://github.com/jcokell/hosts
@@ -24,7 +24,6 @@
 0.0.0.0 a.magsrv.com
 0.0.0.0 leewibijoa.com
 0.0.0.0 trafficox.com
-0.0.0.0 xhamsterlive.com
 0.0.0.0 vip.stakeclick.com
 0.0.0.0 ads.mystat.pro
 0.0.0.0 bestgore.com
@@ -35,12 +34,20 @@
 0.0.0.0 ad-arrow.com
 0.0.0.0 tracking.typeform.com
 0.0.0.0 connect.facebook.net
+0.0.0.0 ad.ad-arrow.com
 
 # Random dating sites
 0.0.0.0 fun2-nights.com
 0.0.0.0 soamaibeshoap.com
 0.0.0.0 clicktodates.com
 0.0.0.0 cfcgcci.clicktodates.com
+0.0.0.0 xhamsterflirt.com
+0.0.0.0 j56y.site/l/k88Zsfzl
+0.0.0.0 j56y.com/l/iQu1vnja
+0.0.0.0 j56y.com/l/Tw36CPZz
+0.0.0.0 mannyon.top/rateme
+0.0.0.0 jd56.site
+0.0.0.0 fckznx.com
 
 # trafficjunky
 0.0.0.0 ststic.trafficjunky.com
@@ -68,12 +75,14 @@
 0.0.0.0 golove.ai
 0.0.0.0 golove.ai/?ref=leakgallery  #main site is blocked but ad was getting through on another site
 0.0.0.0 info.romerobill.com
+0.0.0.0 xhamsterlive.com/goto
+0.0.0.0 thotchat.ai
 
 # Porn game redirects
 0.0.0.0 everlustinglife.com
 
 # Streaming services' ad servers
-0.0.0.0 us-east-1.ads.digital.disneyadvertising.com
-
+0.0.0.0 us-east-1.ads.digital.disneyadvertising.com   #Disney+ 
+0.0.0.0 eu-central-1.ads.digital.disneyadvertising.com  #Disney+ fallback 
 # Streaming devices' data scraping servers
 0.0.0.0 cooper.logs.roku.com
