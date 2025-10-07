@@ -4,8 +4,8 @@
 #
 # The contents of this file contains a listing of additional domains in 'hosts' file format
 #
-# Date: 07 October 2025 23:33:50 (UTC)
-# Number of unique domains: 60
+# Date: 07 October 2025 23:44:50 (UTC)
+# Number of unique domains: 61
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/jcokell/Hosts/refs/heads/main/hosts
 # Project home page: https://github.com/jcokell/hosts
@@ -35,6 +35,7 @@
 0.0.0.0 tracking.typeform.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 ad.ad-arrow.com
+0.0.0.0 jic.talkingdata.com
 
 # Random dating sites
 0.0.0.0 fun2-nights.com
@@ -42,12 +43,13 @@
 0.0.0.0 clicktodates.com
 0.0.0.0 cfcgcci.clicktodates.com
 0.0.0.0 xhamsterflirt.com
-0.0.0.0 j56y.site/l/k88Zsfzl
-0.0.0.0 j56y.com/l/iQu1vnja
-0.0.0.0 j56y.com/l/Tw36CPZz
-0.0.0.0 mannyon.top/rateme
+0.0.0.0 j56y.site
+0.0.0.0 j56y.com
+0.0.0.0 p78t.com
+0.0.0.0 mannyon.top
 0.0.0.0 jd56.site
 0.0.0.0 fckznx.com
+0.0.0.0 pokalive.com
 
 # trafficjunky
 0.0.0.0 ststic.trafficjunky.com
