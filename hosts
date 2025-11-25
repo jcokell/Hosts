@@ -4,8 +4,8 @@
 #
 # The contents of this file contains a listing of additional domains in 'hosts' file format
 #
-# Date: 07 October 2025 23:44:50 (UTC)
-# Number of unique domains: 61
+# Date: 25 November 2025 16:47:50 (UTC)
+# Number of unique domains: 63
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/jcokell/Hosts/refs/heads/main/hosts
 # Project home page: https://github.com/jcokell/hosts
@@ -79,6 +79,7 @@
 0.0.0.0 info.romerobill.com
 0.0.0.0 xhamsterlive.com/goto
 0.0.0.0 thotchat.ai
+0.0.0.0 loveone.wiki
 
 # Porn game redirects
 0.0.0.0 everlustinglife.com
@@ -88,3 +89,6 @@
 0.0.0.0 eu-central-1.ads.digital.disneyadvertising.com  #Disney+ fallback 
 # Streaming devices' data scraping servers
 0.0.0.0 cooper.logs.roku.com
+
+# Ransomware-like
+0.0.0.0 loli1-bgbhcfwemayg9a5.z02.azurefd.net
