@@ -1,17 +1,18 @@
-# Title: jcokell/hosts
-#
-# This hosts file is a collection of hosts from my personal experiences online
-#
-# The contents of this file contains a listing of additional domains in 'hosts' file format
-#
-# Date: 25 November 2025 16:47:50 (UTC)
-# Number of unique domains: 63
-#
-# Fetch the latest version of this file: https://raw.githubusercontent.com/jcokell/Hosts/refs/heads/main/hosts
-# Project home page: https://github.com/jcokell/hosts
-# Project releases: https://github.com/jcokell/hosts/releases
-#
-# ===============================================================
+# ============================================================================================================== #
+# Title: jcokell/hosts                                                                                           #
+#                                                                                                                #
+# This hosts file is a collection of hosts from my personal experiences online                                   #
+#                                                                                                                #
+# The contents of this file contains a listing of additional domains in 'hosts' file format                      #
+# ============================================================================================================== #
+# Date: 15 April 2026 19:54:50 (UTC)                                                                          #
+# Number of unique domains: 63                                                                                   #
+# ============================================================================================================== #
+# Fetch the latest version of this file: https://raw.githubusercontent.com/jcokell/Hosts/refs/heads/main/hosts   #
+# Project home page: https://github.com/jcokell/hosts                                                            #
+# Project releases: https://github.com/jcokell/hosts/releases                                                    #
+#                                                                                                                #
+# ============================================================================================================== #
 
 # blacklist
 0.0.0.0 bmedia-gcore.justservingfiles.net
@@ -36,6 +37,12 @@
 0.0.0.0 connect.facebook.net
 0.0.0.0 ad.ad-arrow.com
 0.0.0.0 jic.talkingdata.com
+0.0.0.0 svacdn.tsyndicate.com
+0.0.0.0 cdn.tsyndicate.com
+0.0.0.0 doppiorcdn.ccom
+0.0.0.0 creative.blcdog.com
+0.0.0.0 tsvideo.sacdnssedge.com
+0.0.0.0 ebayadservices.com
 
 # Random dating sites
 0.0.0.0 fun2-nights.com
@@ -73,20 +80,31 @@
 0.0.0.0 smutr.com
 0.0.0.0 yuvutu.com
 0.0.0.0 theyarehuge.com
-0.0.0.0 pornhaven.ai
-0.0.0.0 golove.ai
-0.0.0.0 golove.ai/?ref=leakgallery  #main site is blocked but ad was getting through on another site
 0.0.0.0 info.romerobill.com
-0.0.0.0 xhamsterlive.com/goto
-0.0.0.0 thotchat.ai
+0.0.0.0 xhamsterlive.com
 0.0.0.0 loveone.wiki
+0.0.0.0 stripchat.com
+0.0.0.0 golovehub.com
+
+# AI Slop
+0.0.0.0 undress.app
+0.0.0.0 thotchat.ai
+0.0.0.0 golove.ai
+0.0.0.0 pornhaven.ai
+0.0.0.0 candy.ai
+0.0.0.0 undress.cc
+0.0.0.0 goloveai.com
+0.0.0.0 vbuidencestures.com
 
 # Porn game redirects
 0.0.0.0 everlustinglife.com
+0.0.0.0 gamengirls.com
+0.0.0.0 lustgoddess.com
 
 # Streaming services' ad servers
 0.0.0.0 us-east-1.ads.digital.disneyadvertising.com   #Disney+ 
 0.0.0.0 eu-central-1.ads.digital.disneyadvertising.com  #Disney+ fallback 
+
 # Streaming devices' data scraping servers
 0.0.0.0 cooper.logs.roku.com
 
